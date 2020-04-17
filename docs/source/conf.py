@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Configuration file for the Sphinx documentation builder.
 #
 # This file only contains a selection of the most common options. For a full
@@ -80,6 +81,7 @@ html_static_path = ['_static']
 #
 # html_sidebars = {}
 
+latex_engine = 'xelatex'
 
 # -- Options for HTMLHelp output ---------------------------------------------
 
